@@ -36,6 +36,32 @@ Keylogger uses a number of open source projects and libraries to work properly:
 - [Windows API](https://docs.microsoft.com/en-us/windows/win32/api/) - for intercepting input events
 - [COM](https://docs.microsoft)
 
+## Installation
+
+### Prerequisites
+
+- Windows operating system
+- [Visual Studio](https://visualstudio.microsoft.com/) or any C++ compiler
+- Windows SDK
+
+### Building
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Maksikos-ctrl/Keylogger.git
+    cd Keylogger
+    ```
+
+2. Open the project in Visual Studio or use your preferred C++ build system.
+
+3. Build the project.
+
+### Running
+
+Run the executable generated after the build process. It will start logging keystrokes and save them to `log.txt`.
+
+```sh
+```
 
 ## Usage
 
