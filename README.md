@@ -3,6 +3,7 @@
 
 [![Build Status](https://travis-ci.org/Maksikos-ctrl/Keylogger.svg?branch=master)](https://travis-ci.org/Maksikos-ctrl/Keylogger)
 
+
 Keylogger is a sophisticated keylogging tool designed for security and monitoring purposes. It logs keystrokes and can be used to monitor user activity on a device.
 
 - Record keystrokes efficiently
