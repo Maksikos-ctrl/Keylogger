@@ -60,8 +60,7 @@ Keylogger uses a number of open source projects and libraries to work properly:
 
 Run the executable generated after the build process. It will start logging keystrokes and save them to `log.txt`.
 
-```sh
-```
+
 
 ## Usage
 
